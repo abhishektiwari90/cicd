@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /home/ubuntu/ci-cd-node-app
+    destination: /home/ubuntu/tiwari
 hooks:
   AfterInstall:
     - location: scripts/install.sh
