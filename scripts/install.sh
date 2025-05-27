@@ -1,3 +1,3 @@
 #!/bin/bash
 cd /home/ubuntu/tiwari
-npm install
+chmod +x install.sh
