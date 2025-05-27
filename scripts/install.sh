@@ -1,4 +1,3 @@
 #!/bin/bash
-cd /home/ubuntu/ci-cd-node-app
+cd /home/ubuntu/tiwari
 npm install
-
